@@ -1,0 +1,10 @@
+{
+  "name": "Mannering Dental — Practice Portal",
+  "short_name": "Mannering Dental",
+  "description": "Dental practice portal — optimized link opens the mobile layout.",
+  "start_url": "/?view=mobile",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#fafafa",
+  "icons": []
+}
